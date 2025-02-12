@@ -4,7 +4,7 @@ This repository contains Python code for a deep learning model that classifies l
 
 **Dataset:**
 
-* The dataset consists of images of rice leaves affected by different diseases.
+* The dataset consists of images of rice leaves affected by different diseases. (https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases)
 * The images are divided into three categories: 
     * Bacterial Leaf Blight
     * Brown Spot
